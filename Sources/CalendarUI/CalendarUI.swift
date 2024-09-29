@@ -5,6 +5,8 @@ import SwiftUI
 
 public struct CalendarView: View {
     
+    public init() {}
+    
     public var body: some View {
         Text("say hello")
     }
